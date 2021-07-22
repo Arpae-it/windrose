@@ -48,7 +48,7 @@ maintenance:
   contacts:
     - name: Paolo Veronesi
   type: community
-name: mappatore
+name: windrose
 platforms:
   - linux
   - windows
