@@ -8,7 +8,7 @@ categories:
 description:
   en:
     features:
-      - Make wind roses from simple csv files
+      - Makeing wind roses from simple csv files
     genericName: R + Shiny app
     localisedName: windrose
     longDescription: |
