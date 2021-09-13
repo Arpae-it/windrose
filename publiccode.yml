@@ -23,10 +23,10 @@ description:
     shortDescription: |
       An automatic Shiny + R tool to produce wind roses starting from very
       simply formatted csv files
+    screenshots:
+      - screenshot.png
 developmentStatus: stable
-screenshots:
-      - >-
-        screenshot.png
+
 it:
   conforme:
     gdpr: false
